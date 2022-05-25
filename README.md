@@ -1,4 +1,4 @@
-# rodic-clone-2022
+# Rodic Clone - 2022
 
 ## Css Layout Clone
 
